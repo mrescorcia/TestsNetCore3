@@ -1,0 +1,15 @@
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/TestsNetCore3
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/TestsNetCore3.deps.json
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/TestsNetCore3.runtimeconfig.json
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/TestsNetCore3.dll
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/ref/TestsNetCore3.dll
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/bin/Debug/net6.0/TestsNetCore3.pdb
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.csproj.AssemblyReference.cache
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.AssemblyInfoInputs.cache
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.AssemblyInfo.cs
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.csproj.CoreCompileInputs.cache
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.dll
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/ref/TestsNetCore3.dll
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.pdb
+/home/mrescorcia/Projects/Net/TestsNetCore3/TestsNetCore3/obj/Debug/net6.0/TestsNetCore3.genruntimeconfig.cache
